@@ -1,0 +1,11 @@
+{
+  "name": "projet-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Adrien",
+  "license": "ISC"
+}
